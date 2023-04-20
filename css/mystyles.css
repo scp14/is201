@@ -1,6 +1,78 @@
 h1{
-    font-family: Comic Sans MS, cursive,sans-serif !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: palevioletred !important;
+    font-size:larger;
 }
 .site-heading-upper{
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: palevioletred !important;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: lavenderblush;
+    background-color: palevioletred;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: palevioletred;
+    background-color: pink;
+    
+}
+::before{
+    background-color: lavenderblush !important;
+}
+div{
+    background-color: palevioletred !important;
+}
+nav{ 
+    text-decoration-color: lavenderblush;
+    background-color: palevioletred;
+}
+.container{ 
+    color:palevioletred;
+
+}
+
+button{
+    background-color:lavenderblush;
+}
+navbar{
+    color:lavenderblush;
+}
+.footer{
+    color:lavendarblush;
+    border:lavenderblush;
+    padding:lavenderblush;
+    background-color: palevioletred;
+
+}
+padding{
+    color:palevioletred !important;
+}
+.mainnav{
+background-color: palevioletred;
+}
+.navbar-dark{
+    background-color: palevioletred !important;
+    text-decoration-color: lavenderblush;
+}
+.cta{
+    background-color:lightpink;
+}
+.btn {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: palevioletred;
+   background-color: lavenderblush;
+   border: palevioletred;
+  }
+  .btn:hover{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration-color: palevioletred;
+    background-color: deeppink;
+  }
+.video-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
